@@ -1,0 +1,6 @@
+{
+    "URL": "http://localhost:2004/",
+    
+    "password_field": "//input[@name='password']",
+    "login_button": "//button[@id='login']"
+}
